@@ -1,2 +1,3 @@
 # Wisconsin-Cancer-Clustering
-Comparison of hierarchical and kmeans clustering 
+• Implementation of Principal Components Analysis to identify the top 'n' parameters which explain variability in data.
+• Model comparison between kmeans clustering and hierarchical clustering.
